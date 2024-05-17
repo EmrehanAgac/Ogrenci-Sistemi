@@ -1,0 +1,14 @@
+C:\Users\Infotech Academy\source\repos\Haftaiçi Akşam Sınıfı(25 Aralık)\1- Console Dersleri\16. Gün\20240129_GenelAlistirma\bin\Debug\net8.0\20240129_GenelAlistirma.exe
+C:\Users\Infotech Academy\source\repos\Haftaiçi Akşam Sınıfı(25 Aralık)\1- Console Dersleri\16. Gün\20240129_GenelAlistirma\bin\Debug\net8.0\20240129_GenelAlistirma.deps.json
+C:\Users\Infotech Academy\source\repos\Haftaiçi Akşam Sınıfı(25 Aralık)\1- Console Dersleri\16. Gün\20240129_GenelAlistirma\bin\Debug\net8.0\20240129_GenelAlistirma.runtimeconfig.json
+C:\Users\Infotech Academy\source\repos\Haftaiçi Akşam Sınıfı(25 Aralık)\1- Console Dersleri\16. Gün\20240129_GenelAlistirma\bin\Debug\net8.0\20240129_GenelAlistirma.dll
+C:\Users\Infotech Academy\source\repos\Haftaiçi Akşam Sınıfı(25 Aralık)\1- Console Dersleri\16. Gün\20240129_GenelAlistirma\bin\Debug\net8.0\20240129_GenelAlistirma.pdb
+C:\Users\Infotech Academy\source\repos\Haftaiçi Akşam Sınıfı(25 Aralık)\1- Console Dersleri\16. Gün\20240129_GenelAlistirma\obj\Debug\net8.0\20240129_GenelAlistirma.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Infotech Academy\source\repos\Haftaiçi Akşam Sınıfı(25 Aralık)\1- Console Dersleri\16. Gün\20240129_GenelAlistirma\obj\Debug\net8.0\20240129_GenelAlistirma.AssemblyInfoInputs.cache
+C:\Users\Infotech Academy\source\repos\Haftaiçi Akşam Sınıfı(25 Aralık)\1- Console Dersleri\16. Gün\20240129_GenelAlistirma\obj\Debug\net8.0\20240129_GenelAlistirma.AssemblyInfo.cs
+C:\Users\Infotech Academy\source\repos\Haftaiçi Akşam Sınıfı(25 Aralık)\1- Console Dersleri\16. Gün\20240129_GenelAlistirma\obj\Debug\net8.0\20240129_GenelAlistirma.csproj.CoreCompileInputs.cache
+C:\Users\Infotech Academy\source\repos\Haftaiçi Akşam Sınıfı(25 Aralık)\1- Console Dersleri\16. Gün\20240129_GenelAlistirma\obj\Debug\net8.0\20240129_GenelAlistirma.dll
+C:\Users\Infotech Academy\source\repos\Haftaiçi Akşam Sınıfı(25 Aralık)\1- Console Dersleri\16. Gün\20240129_GenelAlistirma\obj\Debug\net8.0\refint\20240129_GenelAlistirma.dll
+C:\Users\Infotech Academy\source\repos\Haftaiçi Akşam Sınıfı(25 Aralık)\1- Console Dersleri\16. Gün\20240129_GenelAlistirma\obj\Debug\net8.0\20240129_GenelAlistirma.pdb
+C:\Users\Infotech Academy\source\repos\Haftaiçi Akşam Sınıfı(25 Aralık)\1- Console Dersleri\16. Gün\20240129_GenelAlistirma\obj\Debug\net8.0\20240129_GenelAlistirma.genruntimeconfig.cache
+C:\Users\Infotech Academy\source\repos\Haftaiçi Akşam Sınıfı(25 Aralık)\1- Console Dersleri\16. Gün\20240129_GenelAlistirma\obj\Debug\net8.0\ref\20240129_GenelAlistirma.dll
